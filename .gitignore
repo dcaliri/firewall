@@ -13,3 +13,22 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+config/database.yml
+log/*.log
+Capfile
+*.swo
+*.swp
+*.swo
+*.swn
+*.swm
+*.*~
+*.tmproj
+db/schema.rb
+.DS_Store
+Termfile
+.bundle/
+.sass-cache/
+*.old
+tags
+.rbenv-version
